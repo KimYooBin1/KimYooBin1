@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리]
