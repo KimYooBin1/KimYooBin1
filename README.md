@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyb1208tg)](https://solved.ac/kyb1208tg/)  
-</div>
-<div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimYooBin1&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimYooBin1&theme=default)
-</div>
+
