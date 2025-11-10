@@ -26,6 +26,11 @@
 | --- | --- | --- |
 | 2024.05 | SQLD (SQL 개발자) | 한국데이터산업진흥원 (KDATA) |
 | 2025.02 | AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
+| 2025.06 | AWS Certified AI Practitioner – Foundation (AIF-C01) | Amazon Web Services |
+| 2025.10 | AWS Certified Solutions Architect – Professional (SAP-C02) | Amazon Web Services |
+| 2025.11 | 정보처리기사 |  |
+
+
 
 <br>
 
