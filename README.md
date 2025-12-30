@@ -43,40 +43,10 @@
 
 <h2 align='center'>📁 Portfolio</h2>
 
-📝 주요 프로젝트와 작업물을 정리한 포트폴리오는 [여기서 확인할 수 있습니다](https://www.notion.so/1dde2f058de880cbaac9c9cd412b8b54?pvs=4).
+📝 주요 프로젝트와 작업물을 정리한 포트폴리오는 [여기서 확인할 수 있습니다]().
 
 <br>
 
-## 📚 Tech Skills
-
-### ⚒ Backend & Cloud
-![](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/nest.js-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/gcp-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ⚒ Frontend
-![](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/next.js-E0234E.svg?&style=for-the-badge&logo=nextjs&logoColor=white)
-
-### ⚒ Language
-![](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📦 Database & Storage
-![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/minIO-E11F26.svg?style=for-the-badge&logo=minio&logoColor=white)
-![](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🧰 Tools & Platforms
 [![Tech Blog](http://img.shields.io/badge/Blog-Tistory-ff5a4a?style=flat-square&logo=Tistory&logoColor=white)](https://cinnamon-lol.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KimYooBin1)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kyb1208tg@gmail.com)
