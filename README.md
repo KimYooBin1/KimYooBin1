@@ -12,6 +12,7 @@
 
 | 프로젝트명 | 기간 | 구분 | 설명 |
 | --- | --- | --- | --- |
+| 틈타 | 25.08 ~ | 창업동아리 | 시간 조율 Backendd 및 클라우드 인프라 설계 |
 | 온기 | 25.03 ~ 25.05 | 캡스톤 디자인 |  독거노인 매칭 플랫폼 Backend 및 클라우드 인프라 설계 |
 | uniflee | 24.09 ~ 25.01 | 알파프로젝트 | AI 기반 분리배출 큐레이션 서비스 Backend 개발 및 GCP Vertex AI 연동 |
 | WebRTC Server | 24.05 ~ 24.11 | 개인 프로젝트 | WebRTC 기반 1:1 화상 채팅 및 실시간 채팅 서버 개발 (React + Spring Boot) |
@@ -24,11 +25,11 @@
 
 | 취득일 | 자격증명 | 발행기관 |
 | --- | --- | --- |
-| 2024.05 | SQLD (SQL 개발자) | 한국데이터산업진흥원 (KDATA) |
-| 2025.02 | AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
-| 2025.06 | AWS Certified AI Practitioner – Foundation (AIF-C01) | Amazon Web Services |
+| 2025.12 | 정보처리기사 | 한국산업인력공단 |
 | 2025.10 | AWS Certified Solutions Architect – Professional (SAP-C02) | Amazon Web Services |
-| 2025.11 | 정보처리기사 |  |
+| 2025.06 | AWS Certified AI Practitioner – Foundation (AIF-C01) | Amazon Web Services |
+| 2025.02 | AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
+| 2024.05 | SQLD (SQL 개발자) | 한국데이터산업진흥원 (KDATA) |
 
 
 
