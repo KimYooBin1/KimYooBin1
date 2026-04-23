@@ -25,6 +25,7 @@
 
 | 취득일 | 자격증명 | 발행기관 |
 | --- | --- | --- |
+| 2026.03 | CKA (Certified Kubernetes Administrator) | CNCS |
 | 2025.12 | 정보처리기사 | 한국산업인력공단 |
 | 2025.10 | AWS Certified Solutions Architect – Professional (SAP-C02) | Amazon Web Services |
 | 2025.06 | AWS Certified AI Practitioner – Foundation (AIF-C01) | Amazon Web Services |
